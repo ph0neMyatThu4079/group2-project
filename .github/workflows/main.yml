@@ -3,7 +3,7 @@ on: push
 
 jobs:
   build:
-    name: Hello world action
+    name: Group 2 Project
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
